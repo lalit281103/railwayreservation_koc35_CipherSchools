@@ -1,0 +1,25 @@
+style{
+    background-color: aquamarine;
+    text-align: center;
+    text-shadow: 0in;
+}
+h1{
+    color-interpolation-filters: sRGB;
+    color: blue;
+}
+h2{
+    column-width: 0ex;
+    color-scheme: red;
+    text-shadow: 0vmax;
+}
+h3{
+    border: 0mm;
+    border-style: initial;
+    text-indent: 0fr;
+    column-gap: 0ex;
+    grid-row-start: inherit;
+}
+h4{
+    color-interpolation-filters:yellow ;
+    column-rule-color: brown;
+}
